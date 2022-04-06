@@ -1,0 +1,9 @@
+-r requirements.txt
+pytest
+bandit>=1.6.2, <2.0
+coverage
+wheel
+behave
+flake8
+twine
+importlib-metadata>=3.6

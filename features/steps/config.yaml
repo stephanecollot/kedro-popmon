@@ -1,0 +1,5 @@
+output_dir: code
+project_name: Behave test
+repo_name: behave-test
+python_package: behave_test
+include_example: true

@@ -1,0 +1,6 @@
+kedro[pandas]==0.17.3
+click<8.0
+pandas
+semver
+popmon==0.4.0
+matplotlib==3.3.4
